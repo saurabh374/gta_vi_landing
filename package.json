@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://saurabh374.github.io/gta_vi_landing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
